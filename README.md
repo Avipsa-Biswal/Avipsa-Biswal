@@ -2,7 +2,7 @@
 <h1>Let's Chat</h1>
 
 <h2>Making an app for communication</h2>
-
+Your name : message
 <!--
 **Avipsa-Biswal/Avipsa-Biswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
