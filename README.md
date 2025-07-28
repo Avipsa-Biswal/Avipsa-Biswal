@@ -2,6 +2,7 @@
 
 💫 **About Me**  
 I'm a 3rd-year B.Tech Computer Science Engineering student with a passion for solving real-world problems through technology. I enjoy working on projects involving **Machine Learning, Deep Learning, NLP**, and **Android app development**. I'm also diving deep into **DevOps and Cloud tools** to broaden my skillset.
+![Profile Views](https://komarev.com/ghpvc/?username=Avipsa-Biswal&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ✨ I believe in building while learning — and I thrive on collaboration, curiosity, and creativity.
 
