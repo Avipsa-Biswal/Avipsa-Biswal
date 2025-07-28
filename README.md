@@ -43,6 +43,12 @@ I'm a 3rd-year B.Tech Computer Science Engineering student with a passion for so
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
 
+
+---
+
+🧩 **LeetCode Stats**
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/avipsa1024_1?theme=dark&font=Baloo%20Bhaijaan&ext=contest)](https://leetcode.com/u/avipsa1024_1)
 ---
 
 📊 **GitHub Stats**
