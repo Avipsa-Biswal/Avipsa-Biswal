@@ -45,10 +45,8 @@ I'm a 3rd-year B.Tech Computer Science Engineering student with a passion for so
 
 
 ---
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/avipsa1024_1)
 
-🧩 **LeetCode Stats**
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/avipsa1024_1?theme=dark&font=Baloo%20Bhaijaan&ext=contest)](https://leetcode.com/u/avipsa1024_1)
 ---
 
 📊 **GitHub Stats**
