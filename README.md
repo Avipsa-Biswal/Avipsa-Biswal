@@ -17,7 +17,7 @@ I'm a 3rd-year B.Tech Computer Science Engineering student with a passion for so
 ---
 
 🌐 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avipsa-biswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avipsa-biswal-9391b9272)
 
 ---
 
