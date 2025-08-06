@@ -25,7 +25,7 @@ Currently also leveling up my DevOps + Cloud game — *because who doesn't like 
 - 🤖 Competing in Kaggle’s **"Make Data Count - Finding Data References"** NLP comp  
 - 🧪 Building a **Diabetes Prediction System** (Yes, it’s sugar-coded with ML)  
 - 📷 Created an **OCR + Translator** app using OpenCV & Tesseract (language barriers, who?)  
-- ☁️ Learning all the cloudy stuff — **Jenkins, Docker, GCP, AWS, Azure**  
+- ☁️ Learning all the cloudy stuff : **Jenkins, Docker, GCP, AWS, Azure**  
 - 📱 Android-ing with **Jetpack Compose + Firebase**
 
 ---
@@ -80,13 +80,13 @@ Currently also leveling up my DevOps + Cloud game — *because who doesn't like 
 ## 🪄 Fun Fact
 
 - I’ve built an OCR + Translator because sometimes even I don’t understand my handwriting. 😅  
-- I like my apps like I like my chai — **hot, efficient, and made with love.**
+- I like my apps like I like my chai ;) **hot, efficient, and made with love.**
 
 ---
 
 ## 🌟 Thanks for Dropping By!
 
-If you’ve scrolled this far —  
+If you’ve scrolled this far 
 Let’s collab, code, or just vibe over memes and machine learning ✨
 
 > ⭐ *Drop a star if you smiled reading this* 😉
